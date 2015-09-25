@@ -1,3 +1,7 @@
+--------------------------------------
+This is a local customized clone of the Shibboleth Embedded Discovery Service. The default README follows.
+--------------------------------------
+
 Welcome to the Shibboleth Embedded Discovery Service.
 
 Shibboleth is a federated web authentication and attribute exchange
